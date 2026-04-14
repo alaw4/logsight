@@ -14,14 +14,14 @@ I built LogSight to combine software engineering, data analysis, and security co
 - Store log events and alerts in SQLite
 - Visualize findings in a browser dashboard
 
-- ## Tech Stack
+## Tech Stack
 
 - Backend: FastAPI
 - Database: SQLite
 - Frontend: HTML, CSS, JavaScript
 - Charts: Chart.js
 
-- ## Detection Rules
+## Detection Rules
 
 - Multiple failed login attempts from the same IP
 - Repeated failed attempts against the same username
